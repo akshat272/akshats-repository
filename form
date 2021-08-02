@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<body>
+
+
+
+
+
+</head>
+<body>
+
+
+    </body><center><form method ="POST" action="mailto:akshat.sharda.7@gmailcom">
+        <p>enter your name: <input type="text"NAME="urname">
+            
+<p> choose one team member
+ <p>    <input type="radio" value="achutam">achutam</p>
+   <p> <input type="radio" value="harshit" name="papa">harshit</p>
+    <p><input type="radio"value="arnav" name="tinku">arnav</p>
+    
+    
+
+    <p><input type="submit"value="submit">
+        <p><input type="reset"value="reset"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </form>>
+
+   thanku for visiting my form webpage also visit my
+<button>
+     
+<a href="GREETINGS.html"> happy new year webpage</a></button></center>
+
+
+
+
+
+
+</body>
+</html>
